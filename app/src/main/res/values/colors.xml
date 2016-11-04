@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_preloader_start">#000000</color>
+    <color name="color_preloader_center">#000000</color>
+    <color name="color_preloader_end">#ff56a9c7</color>
+    <color name="list_item_title">#fff</color>
+    <color name="news_title_home">#FFFAFA</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#121212</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="gray_2">#AFAFAF</color>
+    <color name="gray_1">#C0C0C0</color>
+    <color name="static_bg">#F2F2F2</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="listview_divider">#55000000</color>
+    <color name="transparent_bg">#80000000</color>
+    <color name="Highlet">#000</color>
+    <color name="select">#2E2E28</color>
+    <color name="default_bg">#303030</color>
+    <color name="sidemenu_listnames">#ffffff</color>
+    <color name="listview_divider_bg">#727272</color>
+    <color name="iqdblistview_bg">#212121</color>
+    <color name="iqdb_top10">#656565</color>
+    <color name="iqdb_top_row">#818181</color>
+</resources>
